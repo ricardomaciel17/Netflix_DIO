@@ -2,4 +2,4 @@
 
  Projeto de recriar a interface da Netflix.
  
-[Resultado](https://drive.google.com/file/d/1CQ5pJlSA1jb5Ye3AnoYaOQpRYkFiycco/view?usp=sharing)
+[Resultado](https://netflix-study-ricardo-maciel.herokuapp.com/)
