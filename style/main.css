@@ -44,7 +44,7 @@ header nav a:hover{
 
 .filme_principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa_one_piece.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("./../img/capa_one_piece.jpg");
     height: 500px;
     background-size: cover;
 
